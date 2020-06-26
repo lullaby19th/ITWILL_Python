@@ -2,7 +2,7 @@
 
 ### From 19/11/05 to 20/03/16
 
-## Python lesson reviews
+## Python Lesson Reviews
 
 
 __Day3__ : 예제15 ~ 예제26  
